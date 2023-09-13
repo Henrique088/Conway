@@ -8,7 +8,7 @@ Jogo do Conway feito em Python
 
 ### Tópicos 
 
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+:small_blue_diamond: [Descrição do Conway](#descrição-do-conway)
 
 :small_blue_diamond: [Regras](#regras)
 
@@ -17,7 +17,7 @@ Jogo do Conway feito em Python
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
 
-## Descrição do projeto
+## Descrição do Conway
 
 O "Jogo da Vida de Conway" (Conway's Game of Life) não é um jogo no sentido tradicional, mas sim um autômato celular inventado pelo matemático britânico John Horton Conway em 1970. É um modelo de simulação que opera em uma grade bidimensional infinita (ou limitada) de células quadradas, cada uma podendo estar em um de dois estados: vivo ou morto (ou ativo ou inativo). O jogo segue algumas regras simples que determinam o estado futuro das células com base no estado atual delas e no estado das células vizinhas.
 
